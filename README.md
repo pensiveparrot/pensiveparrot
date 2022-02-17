@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pensiveparrot" alt="pensiveparrot" /></a> </p>
 
-- 🔭 I’m currently working on **java fullstack project**
+- 🔭 I’m currently working on **studying java fullstack**
 
 - 🌱 I’m currently learning **Spring, Angular**
 

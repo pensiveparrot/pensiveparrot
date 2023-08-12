@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pensiveparrot" alt="pensiveparrot" /></a> </p>
 
-- 🔭 I’m currently working on **studying java fullstack**
+- 🔭 I’m currently working on **Working on an Java fullstack project**
 
 - 🌱 I’m currently learning **Spring, Angular**
 
-- 🤝 I’m looking for help with **Java, Angular, SQL**
+- 🤝 I’m looking for help with **SQL, Computer Graphics**
 
-- 💬 Ask me about **C++, Salesforce, Java**
+- 💬 Ask me about **Angular, C++, Salesforce, Java**
 
 - ⚡ Fun fact **I am bilingual(Spanish and English)**
 

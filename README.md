@@ -11,11 +11,11 @@
 
 ## 🙋 About me
 
-🔭 Currently building a **videogame**
-🌱 Learning **Spring** and **Angular**
-🤝 Looking for help with **computer vision** and **making polygons appear more humanoid, purely programmatically**
-💬 Ask me about **Angular, PostgreSQL, Linux, AI, or Java**
-⚡ Fun fact: I'm **bilingual** — English and Spanish
+- 🔭 Currently building a **videogame**
+- 🌱 Learning **Spring** and **Angular**
+- 🤝 Looking for help with **computer vision** and **making polygons appear more humanoid, purely programmatically**
+- 💬 Ask me about **Angular, PostgreSQL, Linux, AI, or Java**
+- ⚡ Fun fact: I'm **bilingual** — English and Spanish
 
 ## 🛠️ Languages & Tools
 

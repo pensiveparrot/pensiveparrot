@@ -49,10 +49,11 @@
 
 </div>
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 <div align="center">
 
 [![asa-server-manager](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pensiveparrot&repo=asa-server-manager&theme=tokyonight&hide_border=true)](https://github.com/pensiveparrot/asa-server-manager)
 
 </div>
+-->

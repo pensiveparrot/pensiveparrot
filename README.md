@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dillon 👋
+# 👋 Hi, I'm Dillon
 
 **Full-time software developer from the States** &nbsp;•&nbsp; Java, Angular & PostgreSQL are my specialty. Outside work, I enjoy developing video games.
 
@@ -11,11 +11,11 @@
 
 ## 🙋 About me
 
-- 🔭 Currently building a **videogame**
-- 🌱 Learning **Spring** and **Angular**
-- 🤝 Looking for help with **computer vision** and **making polygons appear more humanoid, purely programmatically**
-- 💬 Ask me about **Angular, PostgreSQL, Linux, AI, or Java**
-- ⚡ Fun fact: I'm **bilingual** — English and Spanish
+🔭 Currently building a **videogame**
+🌱 Learning **Spring** and **Angular**
+🤝 Looking for help with **computer vision** and **making polygons appear more humanoid, purely programmatically**
+💬 Ask me about **Angular, PostgreSQL, Linux, AI, or Java**
+⚡ Fun fact: I'm **bilingual** — English and Spanish
 
 ## 🛠️ Languages & Tools
 
